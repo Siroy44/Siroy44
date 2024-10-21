@@ -1,5 +1,5 @@
 - 👋 Salut, nje suis @Siroy44
-- 👀 Toujours a la recheche d'une entrerpise pour un apprentissage ...
+- 👀 Toujours a la recheche d'une entrerpise pour une alternance Dev Full Stack
 - 🌱 HTML/CSS/JS
 - 📫 Nantes
 
